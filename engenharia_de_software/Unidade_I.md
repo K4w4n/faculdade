@@ -6,7 +6,7 @@ A engenharia de software é um ramo que busca conhecer e desenvolver as melhores
 
 Como se constrói um software? Quais são as técnicas? As boas praticas? Como transformar uma ideia abstrata e distante em pastas, arquivos, código e uma extensa lista de tarefas?
 
-Essa e uma infinidade de outras questões são estudadas na area, se algum dia voce tentou codar algo, mas não soube como avançar, se já se questionou se esta fazendo as coisas da "forma certa" e se já abandonou pela metade diversos projetos essa é um bom ponto de partida para se tornar um desenvolvedor melhor.
+Essa e uma infinidade de outras questões são estudadas na area, se algum dia voce tentou codar algo, mas não soube como avançar, se já se questionou se esta fazendo as coisas da "forma certa" e se já abandonou pela metade diversos projetos esse é um bom ponto de partida para se tornar um desenvolvedor melhor.
 
 > Como engenheiros de software, utilizamos nossos conhecimentos para resolver problemas.
 
@@ -37,3 +37,9 @@ O processo unificado é uma tentativa de aproveitar as melhores características
 Ele é muito bom para ter uma ideia de quanto de mão de obra de cada profissional será necessário para um projeto de software.
 
 ![Gráfico que representa o processo unificado](../assets/img/rup.png)
+
+Podemos perceber aqui que existem diversas interações com o cliente, onde a cada iteração um incremento é feito no sistema. Podemos então dizer que esse sistema é interativo e incremental.
+
+Leia [aqui](https://pt.wikipedia.org/wiki/Processo_unificado) um texto muito util na Wikipédia sobre o UP.
+
+> Parei em 06:00, na Engenharia de software unidade I
